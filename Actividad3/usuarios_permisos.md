@@ -19,7 +19,7 @@
 sudo useradd usuario1
 sudo useradd usuario2
 sudo useradd usuario3
-
+```
 ## <a name="Parte2"></a>Parte 1: Gestión de Usuarios
 ```bash
 sudo passwd usuario1
